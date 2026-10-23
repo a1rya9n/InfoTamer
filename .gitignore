@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment configurations with private variables
+.env
+
+# SQLite local database buffer
+data/*.db
+data/*.sqlite
+
+# Daily briefs generated locally (optional, keep directory)
+# briefs/*
