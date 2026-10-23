@@ -1,0 +1,7 @@
+# InfoTamer / Sloth Agent Dependencies
+requests>=2.31.0
+pydantic>=2.5.0
+rich>=13.7.0
+apscheduler>=3.10.4
+feedparser>=6.0.10
+python-dotenv>=1.0.0
